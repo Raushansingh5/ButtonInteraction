@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Button Interaction</string>
+    <string name="click_to_show_toast">Click to show Toast</string>
+</resources>
